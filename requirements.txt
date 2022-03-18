@@ -1,0 +1,9 @@
+Flask
+gunicorn
+Jinja2
+scikit-learn
+scipy
+seaborn
+pandas
+sklearn
+statsmodels
