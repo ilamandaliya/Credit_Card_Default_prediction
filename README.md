@@ -1,6 +1,6 @@
 # Credit_Card_Default_prediction
 
-heroku app link : https://mlcreditcarddefaultpredict.herokuapp.com/
+heroku app link : https://creditcardprediction14.herokuapp.com/
 
 dataset link: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 
